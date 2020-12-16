@@ -26,7 +26,7 @@ This is a web application that uses framer motion to create beautiful animated p
 
 #### Via terminal
 - Open your terminal and browse to the directory you choose.
-- Run `$ git clone https://github.com/RuanScherer/proffy-web.git` to clone the repository (needs GIT).
+- Run `$ git clone https://github.com/RuanScherer/next-tailwind-framermotion.git` to clone the repository (needs GIT).
 - Run `$ npm install` (it will install the project dependencies).
 - Run `$ npm start` (it will start the application).
 
